@@ -28,6 +28,5 @@ Result: The various types of Prompts are executed successfully with generated th
 
 https://github.com/mspradeepmurugen-bit/Ex.No.3.git
 
-
 # Result: Thus the Prompts were exected succcessfully.
 
