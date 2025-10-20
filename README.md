@@ -6,8 +6,7 @@
 
 ### Explanation - Any one use case from Unit 5 and generate the report for that with the unit 2 Prompt type
 Procedure:
-1.	Straightforward Prompts:
-    - •	"Define photosynthesis in one sentence."
+1.	Straightforward Prompts:   - •	"Define photosynthesis in one sentence."
     - 	"List three advantages of electric vehicles."
 
  3.	Tabular Format Prompting:
